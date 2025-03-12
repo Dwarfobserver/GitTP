@@ -16,4 +16,4 @@ from dev_B_tools import square
 print("Square of 4:", square(4))
 
 # Step 4: Final message
-# print("Great job completing the steps!")
+print("COngratulations!")
