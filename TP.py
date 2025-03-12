@@ -17,3 +17,5 @@ print("Square of 4:", square(4))
 
 # Step 4: Final message
 print("COngratulations!")
+
+# Test step 5
