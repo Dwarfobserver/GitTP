@@ -3,7 +3,7 @@ print("Welcome to the Git exercise!")
 
 # Step 2: A simple calculation
 def subtract(a, b):
-    return a - b
+    return a + b
 print("5 - 2 =", subtract(5, 2))
 
 # Step 3: Random fun
@@ -14,3 +14,5 @@ print("Square of 4:", square(4))
 
 # Step 4: Final message
 print("Congratulations!")
+
+# Step 5: Multiplication (multiply two numbers)
