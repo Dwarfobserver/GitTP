@@ -9,6 +9,8 @@ print("Welcome to the Git exercise!")
 # Step 3: Random fun
 import random
 print("Lucky number:", random.randint(1, 100))
+from dev_B_tools import square
+print("Square of 4:", square(4))
 
 # Step 4: Final message
 # print("Great job completing the steps!")
