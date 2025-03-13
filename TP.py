@@ -15,7 +15,8 @@ print("Lucky number:", random.randint(1, 100))
 from dev_B_tools import square
 print("Square of 4:", square(4))
 
-# Step 4: Final message
+# Step 4: Not-so-final message
 print("Congratulations!")
 
-# Test step 5
+# Step 5: Final message
+print("ok")
